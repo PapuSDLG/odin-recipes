@@ -1,0 +1,17 @@
+body {
+    background-color: #E8ED58;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    text-align: center;
+}
+p {
+    font-size: 18px;
+}
+.image-center {
+    text-align: center;
+}
+.width-height {
+    width: 500px;
+    height: 300px;
+}
